@@ -1,0 +1,45 @@
+#page-header:not(.not-top-img):before {
+    background-color: transparent !important;
+  }
+
+/* 页脚透明 */
+#footer {
+    background: transparent !important;
+}
+
+/* 头图透明 */
+#page-header {
+    background: transparent !important;
+}
+
+#rightside>div>button {
+    border-radius: 5px;
+}
+
+#recent-posts>.recent-post-item {
+    background: rgba(255, 255, 255, 0.8);
+}
+
+#aside-content .card-widget {
+    background: rgba(255, 255, 255, 0.8);
+}
+
+div#post {
+    background: rgba(255, 255, 255, 0.8);
+}
+
+div#page {
+    background: rgba(255, 255, 255, 0.8);
+}
+
+div#archive {
+    background: rgba(255, 255, 255, 0.8);
+}
+
+div#tag {
+    background: rgba(255, 255, 255, 0.8);
+}
+
+div#category {
+    background: rgba(255, 255, 255, 0.8);
+}
